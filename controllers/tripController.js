@@ -1,3 +1,4 @@
+// backend/controllers/tripController.js
 import { insertTrip, fetchTrips } from '../models/trip.js';
 import { tripPresenter } from '../presenters/tripPresenter.js';
 
